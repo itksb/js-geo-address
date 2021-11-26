@@ -17,7 +17,7 @@
 
 Пример использования смотри в файле example.js
 
-```ecmascript 6
+```js
 import {createGeoLocation, InMemoryStorage} from './services/geo-location/index.js';
 import {createAddressApi, ApiConfig,} from './services/address-api/index.js';
 
